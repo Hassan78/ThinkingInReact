@@ -1,6 +1,6 @@
 # ThinkingInReact
 A process of building a searchable product data table using React. It is a MOCK UP project from  react.org. I used bootstrap to modify its layout.The MOCK UP provided looks like this
-
+/home/hassan/Documents/ThinkingInReact/reactproject/src/thinking-in-react-mock-1071fbcc9eed01fddc115b41e193ec11-4dd91.png
 
 
 
