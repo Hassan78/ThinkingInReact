@@ -1,7 +1,7 @@
 # ThinkingInReact
 A process of building a searchable product data table using React. It is a MOCK UP project from  react.org. I used bootstrap to modify its layout.The MOCK UP provided looks like this
 
- [link to Google!](https://reactjs.org/static/thinking-in-react-components-eb8bda25806a89ebdc838813bdfa3601-82965.png)
+ [eb8bda25806a89ebdc838813bdfa3601-82965 photo](https://reactjs.org/static/thinking-in-react-components-eb8bda25806a89ebdc838813bdfa3601-82965.png)
 
 
 JSON API returns some data that looks like this:
